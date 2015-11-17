@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 2
+title: SpyGlass - NASA Space Apps TO Submission
 date: 2014-07-17
 img: spaceapps.png
 alt: image-alt
