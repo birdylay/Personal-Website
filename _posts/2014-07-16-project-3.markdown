@@ -1,12 +1,13 @@
 ---
 layout: default
 modal-id: 3
+title: York University Student Portal
 date: 2014-07-16
 img: studentportal.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: July 2014
+client: HTML5, CSS3, jQuery, Adobe Fireworks
+category: UI Design, Web Development
+description: This project was created as part of the Human Computer Interaction course offered by York University.  The course was completed abroad at the Institute of Computer Science, Foundation for Research and Technology Hellas (ICS-FORTH) in Heraklion, Crete, Greece.  The web portal was designed and implemented with two other members and consisted of three phases.  The first phase was the prototype of the design in which the wireframes and intended functionalities were presented to the client.  The second phase involved the actual implementation.  The final phase involved the evaluation of the design through user interviews and system usability scale (SUS) questionnaire. The project attempts to demonstrate and understand standardised and effective usability principles and accessibility to the user.  Code can be viewed <a href="https://github.com/skylerto/TheFamousGuernica" target="new">here</a>.
 
 ---
