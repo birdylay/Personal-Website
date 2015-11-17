@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2015
 client: Adobe Photoshop CS6, Android Studio
 category: UI Design, Android Application
-description: SpyGlass was an Android application designed by myself and two other members.  It was our submission to the annual NASA Space Apps hackathon, specifically the challenge titled "VOLCANOES, ICEBERGS, AND CATS FROM SPACE."  The solution attempts to crowdsource the discovery of "interesting" natural events as observed from space using data from NASA's Earth observation satellites.  We decided to use the sharing concepts of Instagram and the gamification of the swiping technique from Tinder to crowdsource and build a community of interesting satellite imagery.
+description: SpyGlass was an Android application designed by myself and two other members.  It was our submission to the annual NASA Space Apps hackathon, specifically the challenge titled "VOLCANOES, ICEBERGS, AND CATS FROM SPACE."  The solution attempts to crowdsource the discovery of "interesting" natural events as observed from space using data from NASA's Earth observation satellites.  We decided to use the sharing concepts of Instagram and the gamification of the swiping technique from Tinder to crowdsource and build a community of interesting satellite imagery. Code can be viewed <a href="https://github.com/vickitran/SpyCat-with-help-from-Swipeable-Cards" target="new">here</a>
 
 ---
