@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
+title: Twitter Mining and Sentiment Analysis of Canada's Election
 date: 2014-07-18
 img: twittermining.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+project-date: September 2015
+client: Python, MySQL
+category: Data Visualisation, Machine Learning
+description: In the spirit of Canada's 2015 federal election, the purpose of this application was to determine if it was possible to help predict results using the sentiment of tweets.  The application dynamically updates a graph by gathering tweets related to Canadian politics and analysing if it was positive or negative towards a certain party through combination of machine learning classification algorithms. The application was also able to plot the frequency of tweets related to each party to determine their popularity.  As a result, rather than predicting long term results, the application provided more insight to current and immediate events related to Canadian politics. Code can be viewed <a href="https://github.com/vickitran/twittermining_canadaelxn" target="new">here</a>.
 ---
