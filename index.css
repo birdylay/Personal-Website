@@ -3,7 +3,7 @@ body {
         background-color: #2B879E;
         color: white;
         text-align: center;
-        font-size: 600%;
+        font-size: 100%;
     }
 
 @-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
