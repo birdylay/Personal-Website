@@ -2,8 +2,8 @@
 title: Tonny Lay
 email: tonny.lay@gmail.com
 url: https://birdylay.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+description: "Tonny Lay's personal website, documentation of my creations and adventures (both physically and mentally)"
+skills: "Computer engineering student that likes to dabble in code"
 meta_author: Lay Tonny
 
 # Google webmaster tools
@@ -50,7 +50,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Toronto, ON
-  - line: Still call Windsor, ON my home
+  - line: Can also be found in Windsor, ON
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
