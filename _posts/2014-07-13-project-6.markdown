@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 4
+title: Team Roster Posters
 date: 2014-07-15
 img: teamroster.png
 alt: image-alt
