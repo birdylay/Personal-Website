@@ -4,9 +4,9 @@ modal-id: 4
 date: 2014-07-15
 img: teamroster.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: January 2014
+client: Adobe Photoshop CS6
+category: Graphic Design
+description: During the course of my university career, I've been involved with many extracurricular clubs and am usually the one responsible for creating event posters and logos.  This team roster poster was one of the few that stood out for me as I was creating a graphic that was to support my fellow colleagues at competitions external to our university.  It was my first venture into creating team roster posters.  I wouldn't consider myself an avid sports fan, but the team roster designs that I researched were not cutting it in terms of aesthetics and representative of engineering and computer science students.  I believe what truly made these posters scream team roster and "support us" was the font.  The font I used was Bebas, which I fittingly stumbled upon on a Manchester United page.  The poster design was adaptable to different competitions in terms of colours.  They were well received over social media during the course of the competitions.
 
 ---

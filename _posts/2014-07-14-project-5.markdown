@@ -1,12 +1,13 @@
 ---
 layout: default
 modal-id: 6
+title: SkyscraperPage Diagrams
 date: 2014-07-14
 img: skyscraperpage.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: 2008
+client: Adobe Photoshop 7
+category: Graphic Design
+description: <a href="http://skyscraperpage.com" target="new">SkyscraperPage.com</a> was one of the first web sites that made me as proficient as I am today in using Photoshop.  It was also responsible for making me appreciative of architecture and I am now an avid fan and follower of the latest and greatest skyscrapers that have been built and currently under construction.  SkyscraperPage provides diagrams of the buildings in cities and provides an informative view on the height of buildings.  Each diagram that I created was always an enjoyable process - researching the building, finding photographs as references, and reconstructing it in Photoshop.  Having my diagrams approved onto the system always made me excited and made me even further excited that I was one of the sole providers of diagrams for certain cities such as my hometown Windsor - I even created a web site (a bit embarrassing) for my first Intro to Internet course in 2009 on the buildings of Windsor (<a href="http://electron.cs.uwindsor.ca/~layt/index.html" target="new">http://electron.cs.uwindsor.ca/~layt/index.html</a>).
 
 ---
